@@ -58,6 +58,7 @@ body {
   text-align: center;
   background: linear-gradient(45deg, #191919bf, #883e34);
   width: 140px;
+  padding: 8px;
 }
 
 .logo p {
